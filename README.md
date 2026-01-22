@@ -13,6 +13,8 @@ Launch your own private instance of Immergo to Google Cloud in just one click. N
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?utm_source=github&utm_medium=unpaidsoc&utm_campaign=FY-Q1-global-cloud-ai-starter-apps&utm_content=immergo-app&utm_term=-)
+
 ---
 
 Immergo is an interactive language learning application powered by the **Google Gemini Live SDK**. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that adopts perfectly reactive personas.
